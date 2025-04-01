@@ -1,3 +1,9 @@
+
+```bash
+➜  ~ echo i am $(whoami)
+i am cbBorja
+```
+
 ## Hi there 👋
 
 <!--
